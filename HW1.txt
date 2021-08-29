@@ -1,0 +1,12 @@
+Artur Manukyan
+ENGS115-2021
+
+1)-128...127
+2)4 3 2 1 0
+3)NO
+4)NO
+5)8
+6)Evem
+7)sizeof(int)=4, sizeof(x)=20
+9)x=4, y=5
+10)Yes
